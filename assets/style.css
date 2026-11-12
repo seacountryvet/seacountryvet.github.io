@@ -136,6 +136,7 @@ ul{margin:0;padding:0;list-style:none}
 .side{position:sticky;top:110px}
 .side-ph{margin-bottom:18px}.side-ph img{aspect-ratio:4/5}.side-ph.side-sq img{aspect-ratio:1/1}
 .side-ph + .side-ph img{aspect-ratio:4/3}
+.side-ph.side-sq img{aspect-ratio:1/1}
 .contact-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-bottom:28px}
 .map-frame{border-radius:var(--radius);overflow:hidden;border:1px solid var(--line);aspect-ratio:16/7;background:var(--mist)}
 .map-frame iframe{width:100%;height:100%;border:0}
